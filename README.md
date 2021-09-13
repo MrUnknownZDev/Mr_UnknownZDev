@@ -4,7 +4,8 @@
 📚 ➝ I’m currently learning **Java**, **SQL**, **JavaScript with framework NodeJS**  
 
 
-🗺 ➝ The languages i know are: * Java
+🗺 ➝ The languages i know are:
+* Java
 * JavaScript (*More often with the NodeJS framework*)
 * SQL (*Even though it's not really a programming language*)
 * HTML/CSS (*I only use it very little*)
