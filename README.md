@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**SigmazZ/SigmazZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📡 ➡︎ I’m currently working on (Valaria Network)[https://valaria-mc.net/]
+📚 ➡︎ I’m currently learning **Java**, **SQL**, **JavaScript with framework NodeJS**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗺 ➡︎ The languages i know are:
+* Java
+* JavaScript (*More often with the NodeJS framework*)
+* SQL (*Even though it's not really a programming language*)
+* HTML/CSS (*I only use it very little*)
+
+
+📕 ➡︎ My Java IDE is (JetBrains IntelliJ IDEA Community)[https://www.jetbrains.com/idea/] *Currently awaiting a response for my enrollment in the github student program to use Ultimate*
+📗 ➡︎ My JavaScript IDE is (Visual Studio Code)[https://code.visualstudio.com/]
+
+📧 ➡︎ My professional email address is (contact@sigmazz.fr)[mailto://contact@sigmazz.fr]
+💎 ➡︎ My website is (sigmazz.fr)[https://sigmazz.fr]
+
+🧮 ➡︎ I'm **French** ! (*Please stop with the "Oui oui baguette"* x) )
