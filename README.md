@@ -11,8 +11,7 @@
 * HTML/CSS (*I only use it very little*)
 
 
-📕 ➝ My Java IDE is [JetBrains IntelliJ IDEA Community](https://www.jetbrains.com/idea/).  
-*Currently awaiting a response for my enrollment in the github student program to use Ultimate*  
+📕 ➝ My Java IDE is [JetBrains IntelliJ IDEA Ultime](https://www.jetbrains.com/idea/).  
 
 📗 ➝ My JavaScript IDE is [Visual Studio Code](https://code.visualstudio.com/).  
 
