@@ -11,11 +11,11 @@
 * HTML/CSS (*I only use it very little*)
 
 
-📕 ➝ My Java IDE is [JetBrains IntelliJ IDEA Ultime](https://www.jetbrains.com/idea/).  
+📕 ➝ My Java IDE is [JetBrains IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/).  
 
 📗 ➝ My JavaScript IDE is [Visual Studio Code](https://code.visualstudio.com/).  
 
 📧 ➝ My professional email address is [contact@sigmazz.fr](mailto://contact@sigmazz.fr).  
 💎 ➝ My website is [sigmazz.fr](https://sigmazz.fr).  
 
-🧮 ➝ I'm **French** ! (*Please stop with the "Oui oui baguette"* x) )
+🧮 ➝ I'm **French**
