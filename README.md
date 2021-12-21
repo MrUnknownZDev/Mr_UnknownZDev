@@ -15,7 +15,6 @@
 
 📗 ➝ My JavaScript IDE is [Visual Studio Code](https://code.visualstudio.com/).  
 
-📧 ➝ My professional email address is [contact@sigmazz.fr](mailto://contact@sigmazz.fr).  
-💎 ➝ My website is [sigmazz.fr](https://sigmazz.fr).  
+📧 ➝ My professional email address is .  
+💎 ➝ My website is .  
 
-🧮 ➝ I'm **French**
