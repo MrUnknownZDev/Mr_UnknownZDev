@@ -1,20 +1,12 @@
 # Hi there 👋
 
-📡 ➝ I’m currently working on [Valaria Network](https://valaria-mc.net/).  
-📚 ➝ I’m currently learning **Java**, **SQL**, **JavaScript with framework NodeJS**  
+📡 ➝ I’m currently working on [ValaGames](https://valagames.fr/).  
+
+   ValaGames is a French network of Minecraft, Minis-Games and innovations!
+   It is currently under development, if you want to know more, feel free to join the Discord server to be kept informed of the latest news!
 
 
-🗺 ➝ The languages i know are:
-* Java
-* JavaScript (*More often with the NodeJS framework*)
-* SQL (*Even though it's not really a programming language*)
-* HTML/CSS (*I only use it very little*)
+➝ In my spare time, I often develop in Java, but I also rarely do JavaScript and some other web languages.
 
 
-📕 ➝ My Java IDE is [JetBrains IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/).  
-
-📗 ➝ My JavaScript IDE is [Visual Studio Code](https://code.visualstudio.com/).  
-
-📧 ➝ My professional email address is .  
-💎 ➝ My website is .  
-
+In the coming weeks/months repositories should be published in public!
